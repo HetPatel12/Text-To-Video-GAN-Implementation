@@ -80,4 +80,5 @@ This project implements a **Generative Adversarial Network (GAN)** to dynamicall
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Text-to-Video-GAN.git
-2. cd Text-to-Video-GAN
+2. ```bash
+   cd Text-to-Video-GAN
